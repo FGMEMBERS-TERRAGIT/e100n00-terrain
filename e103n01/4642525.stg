@@ -1,0 +1,5 @@
+OBJECT_BASE 4642525.btg
+OBJECT WSAT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 103.698409 1.387124 23.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 103.709979 1.400353 18.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 103.708429 1.376808 17.0 0.00
